@@ -3,7 +3,7 @@ manufacturer:
     - motorola
 
 ---
-
+I have the brand new Motorola 25 that just came out recently I don't have a problem with using the app at all on my phone with some air pro Apple twos as Bluetooth speakers the only thing that I have a problem with is it does kill the battery a little faster 
 
 ## Improve battery while inactive
 
